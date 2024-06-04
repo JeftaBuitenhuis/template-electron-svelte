@@ -12,7 +12,7 @@
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong> <br>
+		try editing <strong>src/routes/+page.svelte</strong> <br />
 	</h2>
 </section>
 

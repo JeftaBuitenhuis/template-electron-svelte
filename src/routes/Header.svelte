@@ -4,8 +4,7 @@
 
 <header>
 	<div class="corner">
-		<a href="https://kit.svelte.dev">
-		</a>
+		<a href="https://kit.svelte.dev"> </a>
 	</div>
 
 	<nav>
@@ -23,8 +22,7 @@
 	</nav>
 
 	<div class="corner">
-		<a href="https://github.com/sveltejs/kit">
-		</a>
+		<a href="https://github.com/sveltejs/kit"> </a>
 	</div>
 </header>
 

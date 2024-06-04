@@ -22,6 +22,8 @@ npm run dev-s # svelte (can also be tested via a browser)
 npm run dev-e # electron
 ```
 
+With the development server and client it is possible to change code runtime.
+
 ## Building
 
 To create a production version of your app:

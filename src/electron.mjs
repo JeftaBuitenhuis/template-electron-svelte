@@ -3,10 +3,9 @@ import path from 'path';
 const __dirname = import.meta.dirname;
 
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
-import * as squirrelStartup from 'electron-squirrel-startup'; // Import all exports
+import * as squirrelStartup from 'electron-squirrel-startup';
 
 if (squirrelStartup.squirrelStartup) {
-	// Use imported function
 	app.quit();
 }
 
@@ -65,6 +64,7 @@ app.on('window-all-closed', () => {
 // In this file you can include the rest of your app's specific main process
 // code. You can also put them in separate files and import them here.
 
+// Handling the window menu creation
 function createMenu() {
 	const isMac = process.platform === 'darwin';
 

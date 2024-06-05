@@ -61,8 +61,8 @@
 	"keywords": [],
 	"description": "Electron Application",
 	"author": {
-		"name": "Jefta Buitenhuis",
-		"email": "buitenhuis.jefta@gmail.com"
+		"name": "",
+		"email": ""
 	},
 	"license": "MIT",
 	"dependencies": {

@@ -43,7 +43,8 @@ You can preview the production build with `npm run preview`.
 
 ```bash
 # preview both the svelte server and electron
-npm run preview # svelte and electron
+npm run preview # preview svelte and electron
+npm run previewb # build, then preview svelte and electron
 
 # or preview them seperately
 npm run preview-s # svelte

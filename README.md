@@ -7,6 +7,12 @@ Everything you need to build a Svelte-Electron application combining the two pow
 ```bash
 # create a new project, cloned from github
 git clone https://github.com/JeftaBuitenhuis/template-electron-svelte.git
+
+# move into project folder
+cd template-electron-svelte
+
+# install all dependencies
+npm install
 ```
 
 ## Developing
